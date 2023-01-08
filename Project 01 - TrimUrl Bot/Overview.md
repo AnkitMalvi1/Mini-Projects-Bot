@@ -47,4 +47,4 @@ This Product Architecture consists of 6 stages as follows:
 
 #### Expected Outcome
 
-![1673159613068](image/Overview/1673159613068.png)
+
